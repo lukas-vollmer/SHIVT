@@ -1,4 +1,4 @@
-![alt logo](https://i.imgur.com/mfVduvv.png)
+#SHIVT
 
 Welcome to SHIVT. Simplifying urban mobility.
 
